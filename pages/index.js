@@ -21,7 +21,7 @@ const Banner = ( {purpose, title1, title2, desc1, desc2, buttonText, linkName, i
 export default function Home() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <h1>HELLO WORLD</h1>
       <Banner
         purpose="RENT A HOUSE"
         title1="Rental Houses for"
